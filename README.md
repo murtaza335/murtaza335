@@ -62,12 +62,13 @@
 
 <p align="center">
   <a href="https://github.com/murtaza335/ABYSS-PLATFORM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=murtaza335&repo=project-1&theme=midnight-purple" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=murtaza335&repo=ABYSS-PLATFORM&theme=midnight-purple" />
   </a>
   <a href="https://github.com/murtaza335/P2P-tutoring-system-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=murtaza335&repo=project-2&theme=midnight-purple" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=murtaza335&repo=P2P-tutoring-system-frontend&theme=midnight-purple" />
   </a>
 </p>
+
 
 ---
 
