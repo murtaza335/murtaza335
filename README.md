@@ -18,8 +18,29 @@
 
 ## 🛠 Tech Stack
 
+### 👨‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,flask,mysql,sqlite,java,cpp,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+</p>
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+</p>
+
+### 🔧 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
+
+### 🗃️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vercel" />
 </p>
 
 ---
@@ -48,7 +69,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=murtaza335&theme=midnight-purple&hide_border=false&date=2025-07-15" />
 </p>
 
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -69,7 +89,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=murtaza335&repo=P2P-tutoring-system-frontend&theme=midnight-purple" />
   </a>
 </p>
-
 
 ---
 
