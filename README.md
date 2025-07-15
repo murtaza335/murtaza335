@@ -61,10 +61,10 @@
 ## 🚀 Projects
 
 <p align="center">
-  <a href="https://github.com/murtaza335/project-1">
+  <a href="https://github.com/murtaza335/ABYSS-PLATFORM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=murtaza335&repo=project-1&theme=midnight-purple" />
   </a>
-  <a href="https://github.com/murtaza335/project-2">
+  <a href="https://github.com/murtaza335/P2P-tutoring-system-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=murtaza335&repo=project-2&theme=midnight-purple" />
   </a>
 </p>
