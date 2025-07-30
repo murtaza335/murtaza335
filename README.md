@@ -66,7 +66,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=murtaza335&theme=midnight-purple&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murtaza335&theme=midnight-purple&hide_border=false" />
 </p>
 
 ---
