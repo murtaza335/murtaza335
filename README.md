@@ -1,18 +1,17 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there 👋, I'm MURTAZA</h1>
+<h1 align="center">Hi 👋, I'm Murtaza</h1>
 <p align="center">
   🚀 Full-stack Developer | Clean Code Advocate | Tech Explorer <br/>
-  Crafting full-stack apps with thoughtful UX and robust backends.
+  Building thoughtful UX with robust, scalable backends.
 </p>
 
 ---
 
 ## ✨ About Me
-
-- 💼 I’m a full-stack developer building modern web apps using the **T3 Stack**, **Python**, and **SQL/NoSQL databases**
-- 🔭 Currently working on projects that blend UI/UX excellence with scalable backend logic
-- ⚡ I'm obsessed with clean code, great architecture, and developer productivity
+- 💼 Full-stack developer working with **T3 Stack**, **Python**, **SQL/NoSQL**
+- 🔭 Crafting apps that balance UI/UX excellence with strong backend architecture
+- ⚡ Passionate about clean code, scalability, and developer productivity
 
 ---
 
@@ -25,62 +24,54 @@
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
 ### 🔧 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 </p>
 
 ### 🗃️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" />  
+  <br/>
+  <img src="https://img.shields.io/badge/ChromaDB-20232A?style=flat&logo=databricks&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vercel" />
+  <img src="https://skillicons.dev/icons?i=linux,github,vercel" />
 </p>
 
 ---
 
-## 🎯 Currently Learning
-
-- 🧠 **DevOps**: GitHub Actions, Vercel, CI/CD pipelines  
+## 🎯 Learning & Exploring
+- 🧠 **DevOps**: CI/CD, GitHub Actions, Vercel  
 - ⚙️ **Backend Expansion**: Prisma ORM, GraphQL  
 - 🎨 **Design Systems**: ShadCN, Tailwind best practices  
-- 🤖 **AI & Automation**: LangChain, Firebase Functions
+- 🤖 **AI/Automation**: LangChain, Firebase Functions  
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murtaza335&show_icons=true&theme=midnight-purple" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza335&layout=compact&theme=midnight-purple" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=murtaza335&show_icons=true&theme=midnight-purple" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza335&layout=compact&theme=midnight-purple" height="160"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
+## 🔥 Streak & Trophies
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murtaza335&theme=midnight-purple&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murtaza335&theme=midnight-purple" height="150"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=murtaza335&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=murtaza335&theme=darkhub&no-frame=true&column=7"/>
-</p>
-
----
-
-## 🚀 Projects
-
+## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/murtaza335/ABYSS-PLATFORM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=murtaza335&repo=ABYSS-PLATFORM&theme=midnight-purple" />
@@ -92,8 +83,7 @@
 
 ---
 
-## 📬 Connect With Me
-
+## 📬 Connect
 <p align="center">
   <a href="mailto:murtazabaig335@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/m-murtaza-rasheed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
