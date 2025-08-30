@@ -1,10 +1,11 @@
 <!-- README.md -->
 
 <h1 align="center">👋 Hey, I'm Murtaza</h1>
-<p align="center">
-  <strong>Full-Stack Developer • Clean Code Advocate • Tech Explorer</strong><br/>
-  I build elegant UIs and resilient backends — bridging ideas into real-world systems.
-</p>
+<p align="center">   
+  <strong>CS Student • Curious Mind • Tech Enthusiast</strong><br/>   
+  Passionate about learning, experimenting, and exploring every corner of technology.  
+</p>  
+
 
 ---
 
