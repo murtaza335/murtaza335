@@ -1,75 +1,50 @@
-<h1 align="center">Hi there, I'm Murtaza 👋</h1>
-<h3 align="center">Computer Science Student @ NUST</h3>
+# Muhammad Murtaza
 
-  <p align="center">Committed to continuous learning and technical expansion.</p>
+**Computer Science @ NUST** · Full Stack Developer
 
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,tailwind,fastapi,flask,nodejs,postgres,mysql,sqlite,firebase,linux,github,vercel&theme=dark&perline=9&size=35" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ChromaDB-20232A?style=flat&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-System%20Design%20%26%20Clean%20Code-orange" />
-</p>
+I build complete web/mobile systems — from database schema and REST APIs to the interfaces people actually use. My work spans backend reliability, data consistency, and frontend workflows, with a particular interest in how systems hold up under real-world conditions.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/murtaza335/in-memory-cache-db-cpp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=murtaza335&repo=in-memory-cache-db-cpp&theme=radical&border_radius=10" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/murtaza335/ABYSS-PLATFORM">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=murtaza335&repo=ABYSS-PLATFORM&theme=radical&border_radius=10" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/murtaza335/FoodPoint-of-sale">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=murtaza335&repo=FoodPoint-of-sale&theme=radical&border_radius=10" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-       <a href="https://github.com/murtaza335">
-        <img src="https://github-readme-stats.vercel.app/api?username=murtaza335&show_icons=true&hide=contribs,issues&count_private=true&title_color=e94560&text_color=ffffff&icon_color=e94560&bg_color=0f172a&hide_border=true&theme=radical" />
-       </a>
-    </td>
-  </tr>
-</table>
-</div>
+**Languages** · C++, Python, Java, JavaScript, TypeScript, SQL
 
-> **Note on Projects:**
-> * **In-Memory Cache:** Custom C++ implementation with TTL-based expiration and eviction policies.
-> * **ABYSS Platform:** Modular full-stack architecture with clean API boundaries.
-> * **FoodPoint:** Transactional POS system with structured business logic.
+**Frontend** · Next.js, React, Tailwind CSS
+
+**Backend** · Node.js, Express.js, REST API design, role-based access control
+
+**Databases** · PostgreSQL, MongoDB, MySQL — schema design, indexing, normalization
+
+**Infrastructure** · Docker, Linux (Ubuntu), Git, CI/CD basics
+
+**System Design** · Data modeling, concurrency, caching strategies, consistency models, validation pipelines
+
+**Networking & Security** · Network simulation, IDS concepts (Snort, Suricata)
 
 ---
 
-## 📊 GitHub Analytics
+## Projects
 
-<div align="center">
+### [Deal Aggregation & Sync Platform](https://github.com/murtaza335/ABYSS-PLATFORM) · Node.js, MongoDB, Redis, Docker
+Full-stack event-driven system for ingesting and processing deal data. Backend handles async message queues, idempotent update logic, Redis caching, and retry-safe deduplication. Built to stay correct under unreliable upstream APIs and bursty workloads.
 
-<a href="https://github.com/murtaza335">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza335&layout=compact&theme=radical&hide_border=true"/>
-</a>
-<a href="https://github.com/murtaza335">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=murtaza335&theme=radical&hide_border=true"/>
-</a>
+### [In-Memory Cache Database](https://github.com/murtaza335/in-memory-cache-db-cpp) · C++, Docker
+Redis-inspired key-value store built from scratch. TTL-based expiration, eviction policies, and hash-based lookups optimized for low-latency reads and writes. Containerized for reproducible builds.
 
-<br/>
-<br/>
+### Virtual Network Testing Lab · EVE-NG, Cisco
+Simulated enterprise routing and switching topologies. Tested routing behavior, ACL configurations, and network isolation in a controlled virtual environment.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=murtaza335&theme=react" width="100%"/>
+---
 
-</div>
+## Experience
+
+**Full Stack Developer** · ICT Directorate, NUST *(June 2025 – Present)*
+
+Building a live ticket lifecycle system used daily across NUST. Owns the full stack: REST API design, PostgreSQL schema with role-based state transitions, authorization and validation logic, and a Next.js frontend for end-to-end ticket tracking. Handles schema evolution and backward compatibility across iterative releases on a production system.
+
+---
+
+## Contact
+
+[murtazabaig335@gmail.com](mailto:murtazabaig335@gmail.com) · [LinkedIn](https://linkedin.com/in/m-murtaza-rasheed) · [GitHub](https://github.com/murtaza335)
